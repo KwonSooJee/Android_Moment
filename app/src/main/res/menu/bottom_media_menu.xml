@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btn_camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="@string/btn_camera" />
+
+    <item
+        android:id="@+id/btn_image"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="@string/btn_image" />
+
+    <item
+        android:id="@+id/btn_map"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/btn_map" />
+
+
+</menu>

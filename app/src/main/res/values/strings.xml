@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Moment</string>
+    <string name="title_home">Home</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_search">Search</string>
+    <string name="title_to_do_list">To Do List</string>
+
+    <string name="btn_image">Image</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="longText">Hello blank fragment
+    kdjlkfja;ljf
+    asdfjkajs
+    anodfioa이ㅓ앰
+    ㅜㅐㅇㄴ머ㅑㅐ채ㅑㄴ
+    우ㅐㅁ너ㅑ애ㅓ
+    ㅜ채ㅓㅁ내ㅑ
+    추앤머ㅐㅑ
+    ㅡ야ㅐㅇㅁ누ㅐㅑ추ㅐㅑㅇㄴ
+    ㅜ챙ㄴ먀ㅐㅓ챠ㅐㄴㅇ무ㅐ
+    ㅜㅊ애ㅜㅑㅐㄴ무ㅐ춘앰
+    추애ㅜ매ㅑ추ㅐㅇ무
+    우채ㅜㄴ애ㅑ춘매ㅑ우
+    추앤무ㅐ챠ㅜ애ㅜㅐㅑㅜㅐㅑ러ㅐㅑㅓㅐㄹ맹ㄴ
+    충챈무채ㅑ누애ㅑㅓ랴ㅐ넝랴ㅐㅁ널
+    ㅜ채우채ㅑㅁㄴㅇ랴ㅐㅓㅐㅑㅇㄴ채눙래ㅑㅜㄴㅁㅇ
+    췅누래넘ㅇ랴ㅓ내ㅑ런멀;ㄴㅇㄹㄴ멀;ㅁㅊ
+    추ㅐㅓㄴ야ㅓ채ㅑㄴㅇㅁㄹ내며ㅠ해ㅕ뫠ㅑ너래ㅑ
+    처ㅐㅁ너ㅐㅑㅓ내ㅑ러ㅐㅑ너ㅐㅑㄴ무리ㅏㅜ추내ㅑㅓ래ㅑㄴ
+    수애ㅓ춤내ㅑ러ㅑㅐㅓㅑㅐㅁ누래누매ㅑ러먀더ㅓㅇㄹ
+    ㅁ랴ㅐㅇ챠ㅐㄴ어랴ㅐㅓㄴ애ㅑ러ㅜㅁ니ㅏ루녇랴ㅐ너ㅐ랴어
+    우랜ㅁ어ㅑㅐㄴ어랴ㅐ내류내ㅑㅑㄴ서ㅑㄴㅇ랴ㅐㅁ너래ㅑㅁ너afvdkddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+    ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+    dddddddddddddddddddddddddddddddd
+    dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+    dddddddddddddddddddddddddddddddd</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

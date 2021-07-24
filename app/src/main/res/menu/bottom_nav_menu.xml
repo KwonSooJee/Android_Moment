@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@android:drawable/ic_menu_month"
+        android:title="@string/title_calendar" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_to_do_list"
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="@string/title_to_do_list" />
+
+</menu>

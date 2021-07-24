@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018892499578",
+    "project_id": "moment-4e905",
+    "storage_bucket": "moment-4e905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018892499578:android:983800447f2d8d033799c3",
+        "android_client_info": {
+          "package_name": "org.techtown.moment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018892499578-f7m5mi6urraa3lnk66a9fubdh42amihk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9zOsLDTSi9bmE4JyUx8q4AhIa2naSA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018892499578-f7m5mi6urraa3lnk66a9fubdh42amihk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
